@@ -884,7 +884,8 @@ article
 {
   display: flex;
   justify-content: space-between;
-  gap: 1rem;
+    align-items: center;
+  gap: 2rem;
   flex-wrap: wrap;
 }
   .contain
