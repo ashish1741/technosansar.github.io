@@ -878,6 +878,7 @@ display: none;
 article
 {
   display: inline-block;
+  margin-bottom: 2rem;
 }
 .social_media
 {
@@ -885,6 +886,11 @@ article
   justify-content: space-between;
   gap: 1rem;
   flex-wrap: wrap;
+}
+  .contain
+{
+ margin-bottom: 2rem;
+ text-align: center;
 }
 
 
